@@ -1,17 +1,27 @@
-# tunes_player
+# tunes_player 🎵
 
-A new Flutter project.
+A Flutter application for playing music with a clean and simple UI.
 
-## Getting Started
+## 📱 App Demo
+https://github.com/user-attachments/assets/78278994-45eb-4a26-8ac1-3a11cb81012a
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- Clean and intuitive UI
+- Play music from local audio files stored in assets
+- Simple tap interaction to play sounds
+- Built with Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- Audio playback (local assets)
+- Flutter built-in widgets
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔌 APIs & Services Used
+- None (all sounds are local assets)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-https://github.com/user-attachments/assets/ccb3092e-bcc7-40d0-897d-fa035ea6d1ee
+## 📦 Getting Started
+This project is a Flutter application.
+
+For help getting started with Flutter development, view the  
+[online documentation](https://docs.flutter.dev/).
